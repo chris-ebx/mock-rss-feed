@@ -12,13 +12,32 @@
 	<atom:link href="https://sitchu.com.au/sydney/feed" rel="self" type="application/rss+xml" />
 	<link>https://sitchu.com.au/sydney</link>
 	<description>Be you. Live Local.</description>
-	<lastBuildDate>Fri, 13 Jun 2025 14:15:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Jun 2025 14:30:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Republished Article - Best new restaurants</title>
+		<link>https://sitchu.com.au/sydney/restaurants/best-new-restaurants-in-sydney</link>
+		
+		<dc:creator><![CDATA[Sitchu Team]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2025 14:30:00 +0000</pubDate>
+				<category><![CDATA[Cafes]]></category>
+		<category><![CDATA[Eat & Drink]]></category>
+		<category><![CDATA[cafe]]></category>
+		<category><![CDATA[dessert]]></category>
+		<category><![CDATA[takeaway]]></category>
+		<guid isPermaLink="false">https://sitchu.com.au/sydney/restaurants/best-new-restaurants-in-sydney</guid>
+
+					<description><![CDATA[<p>Republished Article - Best new restaurants</p>]]></description>
+										<content:encoded><![CDATA[<p>Republished Article - Best new restaurants</p>]]></content:encoded>
+					
+		
+		
+		<enclosure url="" type="image/jpeg" length="86371"></enclosure>	</item>
 	<item>
 		<title>Republished Article - High rise bars</title>
 		<link>https://sitchu.com.au/sydney/bars/blu-bar-on-36-shangri-la-sydney</link>
