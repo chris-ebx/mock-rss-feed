@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -12,7 +13,7 @@
 	<atom:link href="https://sitchu.com.au/sydney/feed" rel="self" type="application/rss+xml" />
 	<link>https://sitchu.com.au/sydney</link>
 	<description>Be you. Live Local.</description>
-	<lastBuildDate>Fri, 13 Jun 2025 10:28:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Jun 2025 05:54:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,11 +21,129 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
-		<title>Updated a second time! Sydney's Underground Nightclub Scene: Where the Music Never Stops</title>
+		<title>Version 1! The Best Desserts in Sydney Worth Saving Room For</title>
+		<link>https://sitchu.com.au/sydney/cafes/best-desserts-sydney</link>
+		
+		<dc:creator><![CDATA[Sitchu Team]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2025 05:54:08 +0000</pubDate>
+				<category><![CDATA[Cafes]]></category>
+		<category><![CDATA[Eat & Drink]]></category>
+		<category><![CDATA[cafe]]></category>
+		<category><![CDATA[dessert]]></category>
+		<category><![CDATA[takeaway]]></category>
+		<guid isPermaLink="false">https://sitchu.com.au/best-desserts-sydney</guid>
+
+					<description><![CDATA[<p>Version 1! Satisfy your sweet craving with a treat (or two) via our edit of the best desserts in Sydney.</p>]]></description>
+										<content:encoded><![CDATA[<p>Satisfy your sweet craving with a treat (or two) via our edit of the best desserts in Sydney.</p>]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://sitchu.com.au/wp-content/uploads/2024/12/butterboybake.jpeg" type="image/jpeg" length="86371"></enclosure>	</item>
+		<item>
+		<title>Version 1! What&#8217;s On This Weekend in Sydney: Our Sydney Editor&#8217;s Top Picks</title>
+		<link>https://sitchu.com.au/sydney/whats-on/whats-on-this-weekend-sydney</link>
+		
+		<dc:creator><![CDATA[Olivia Storrie]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2025 03:06:09 +0000</pubDate>
+				<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[What’s On]]></category>
+		<category><![CDATA[arts]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[eat drink]]></category>
+		<category><![CDATA[events]]></category>
+		<category><![CDATA[fashion]]></category>
+		<category><![CDATA[lifestyle]]></category>
+		<category><![CDATA[live music]]></category>
+		<category><![CDATA[things to do]]></category>
+		<category><![CDATA[whats on]]></category>
+		<guid isPermaLink="false">https://sitchu.com.au/whats-on-this-weekend-sydney</guid>
+
+					<description><![CDATA[<p>Version 1! No plans? Here's what's on in Sydney this weekend...</p>]]></description>
+										<content:encoded><![CDATA[<p>No plans? Here's what's on in Sydney this weekend...</p>]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://sitchu.com.au/wp-content/uploads/2025/06/ONECUT-77-600x400.jpg" type="image/jpeg" length="54915"></enclosure>	</item>
+		<item>
+		<title>Version 1! Nocturnal Returns: Blue Mountains After Dark</title>
+		<link>https://sitchu.com.au/sydney/whats-on/whats-on-in-sydney</link>
+		
+		<dc:creator><![CDATA[Olivia Storrie]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2025 01:56:29 +0000</pubDate>
+				<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[What’s On]]></category>
+		<category><![CDATA[arts culture]]></category>
+		<category><![CDATA[eat drink]]></category>
+		<category><![CDATA[lifestyle]]></category>
+		<category><![CDATA[sydney]]></category>
+		<category><![CDATA[things to do]]></category>
+		<category><![CDATA[whats on]]></category>
+		<guid isPermaLink="false">https://sitchu.com.au/whats-on-in-sydney</guid>
+
+					<description><![CDATA[<p>Version 1! Here's what's on in Sydney this month.</p>]]></description>
+										<content:encoded><![CDATA[<p>Here's what's on in Sydney this month.</p>]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://sitchu.com.au/wp-content/uploads/2025/05/NOCTURNAL-starlight-credit-to-Gary-P-Hayes-Photography-DIGITAL-1024x648-2-600x400.jpg" type="image/jpeg" length="57972"></enclosure>	</item>
+		<item>
+		<title>Version 1! For the Foodies: Sydney Food &#038; Drink News</title>
+		<link>https://sitchu.com.au/sydney/restaurants/food-news-sydney</link>
+		
+		<dc:creator><![CDATA[Olivia Storrie]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2025 01:21:32 +0000</pubDate>
+				<category><![CDATA[Eat & Drink]]></category>
+		<category><![CDATA[Restaurants]]></category>
+		<guid isPermaLink="false">https://sitchu.com.au/food-news-sydney</guid>
+
+					<description><![CDATA[<p>Version 1! The most exciting food news in Sydney right now.</p>]]></description>
+										<content:encoded><![CDATA[<p>The most exciting food news in Sydney right now.</p>]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://sitchu.com.au/wp-content/uploads/2025/04/250324-250321-Hay-St-Market-at-Paddys-©-Esteban-La-Tessa_EL1_9136-600x400.jpg" type="image/jpeg" length="40721"></enclosure>	</item>
+		<item>
+		<title>Version 1! Where to Find The Best Pizza in Sydney</title>
+		<link>https://sitchu.com.au/sydney/restaurants/best-pizza-sydney</link>
+		
+		<dc:creator><![CDATA[Sitchu Team]]></dc:creator>
+		<pubDate>Fri, 13 Jun 2025 00:29:28 +0000</pubDate>
+				<category><![CDATA[Eat & Drink]]></category>
+		<category><![CDATA[Restaurants]]></category>
+		<category><![CDATA[authentic]]></category>
+		<category><![CDATA[eat drink]]></category>
+		<category><![CDATA[restaurant]]></category>
+		<category><![CDATA[takeaway]]></category>
+		<guid isPermaLink="false">https://sitchu.com.au/best-pizza-sydney</guid>
+
+					<description><![CDATA[<p>Version 1! When you’re in need of a solid feed, head to one of these pizza joints that dish up some of the best pizza in Sydney.</p>]]></description>
+										<content:encoded><![CDATA[<p>When you’re in need of a solid feed, head to one of these pizza joints that dish up some of the best pizza in Sydney.</p>]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://sitchu.com.au/wp-content/uploads/2025/02/pocket-pizza1.jpg" type="image/jpeg" length="95404"></enclosure>	</item>
+		<item>
+		<title>Version 1! This Sleek Sky-High Bar Has Cocktails, Views—and All the Vibes</title>
+		<link>https://sitchu.com.au/sydney/bars/blu-bar-on-36-shangri-la-sydney</link>
+		
+		<dc:creator><![CDATA[Janet Guan]]></dc:creator>
+		<pubDate>Thu, 12 Jun 2025 23:20:31 +0000</pubDate>
+				<category><![CDATA[Bars]]></category>
+		<category><![CDATA[Eat & Drink]]></category>
+		<guid isPermaLink="false">https://sitchu.com.au/?p=305264</guid>
+
+					<description><![CDATA[<p>Version 1! We&#8217;ve partnered with Shangri-La Sydney to showcase why Blu Bar on 36, is one of the best bars in Sydney and the go-to spot for an unforgettable night out. Picture this: An iconic skyline shimmering at golden hour, the gentle clink of cocktail glasses and that low hum of conversation that sets the tone for [&#8230;]</p>]]></description>
+										<content:encoded><![CDATA[<p>We&#8217;ve partnered with Shangri-La Sydney to showcase why Blu Bar on 36, is one of the best bars in Sydney and the go-to spot for an unforgettable night out. Picture this: An iconic skyline shimmering at golden hour, the gentle clink of cocktail glasses and that low hum of conversation that sets the tone for [&#8230;]</p>]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://sitchu.com.au/wp-content/uploads/2025/05/Blu-Bar-on-36-at-Shangri-La-Sydney-10-600x400.jpg" type="image/jpeg" length="35572"></enclosure>	</item>
+		<item>
+		<title>Version 1! The Best Pregnancy Massages in Sydney Because You Deserve all the Pampering</title>
 		<link>https://sitchu.com.au/sydney/health-wellness/pregnancy-massage-sydney</link>
 		
 		<dc:creator><![CDATA[Bella Brennan]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 10:28:00 +0000</pubDate>
+		<pubDate>Thu, 12 Jun 2025 07:04:24 +0000</pubDate>
 				<category><![CDATA[Health & Wellness]]></category>
 		<category><![CDATA[Lifestyle]]></category>
 		<category><![CDATA[health and wellness]]></category>
@@ -32,30 +151,73 @@
 		<category><![CDATA[motherhood]]></category>
 		<guid isPermaLink="false">https://sitchu.com.au/pregnancy-massage-sydney</guid>
 
-					<description><![CDATA[<p>Updated a second time! Dive into Sydney's electrifying nightclub scene where world-class DJs spin until dawn and the dance floors pulse with energy. From intimate underground venues to rooftop parties with harbor views, discover the hottest spots that define Sydney's after-dark culture.</p>]]></description>
-										<content:encoded><![CDATA[<p>Dive into Sydney's electrifying nightclub scene where world-class DJs spin until dawn and the dance floors pulse with energy. From intimate underground venues to rooftop parties with harbor views, discover the hottest spots that define Sydney's after-dark culture.</p>]]></content:encoded>
+					<description><![CDATA[<p>Version 1! Looking for the best pregnancy massage in Sydney? You and your bump are in for a treat.</p>]]></description>
+										<content:encoded><![CDATA[<p>Looking for the best pregnancy massage in Sydney? You and your bump are in for a treat.</p>]]></content:encoded>
 					
 		
 		
-		<enclosure url="https://sitchu.com.au/wp-content/uploads/2024/12/best-nightclubs-sydney-scaled.jpg" type="image/jpeg" length="125050"></enclosure>	</item>
-	<item>
-		<title>Second article</title>
-		<link>https://sitchu.com.au/sydney/cafes/best-desserts-sydney</link>
+		<enclosure url="https://sitchu.com.au/wp-content/uploads/2024/12/pregnant-woman-pexels-cottonbro-studio-scaled.jpg" type="image/jpeg" length="125050"></enclosure>	</item>
+		<item>
+		<title>Version 1! The Best School Holiday Activities in Sydney this Winter</title>
+		<link>https://sitchu.com.au/sydney/experiences/school-holiday-activities-sydney</link>
 		
 		<dc:creator><![CDATA[Bella Brennan]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 10:28:00 +0000</pubDate>
-				<category><![CDATA[Health & Wellness]]></category>
-		<category><![CDATA[Lifestyle]]></category>
-		<category><![CDATA[health and wellness]]></category>
-		<category><![CDATA[massage]]></category>
-		<category><![CDATA[motherhood]]></category>
-		<guid isPermaLink="false">https://sitchu.com.au/sydney/cafes/best-desserts-sydney</guid>
+		<pubDate>Wed, 11 Jun 2025 06:54:03 +0000</pubDate>
+				<category><![CDATA[Autumn with Sitchu]]></category>
+		<category><![CDATA[Destinations]]></category>
+		<category><![CDATA[Experiences]]></category>
+		<category><![CDATA[arts and crafts]]></category>
+		<category><![CDATA[cooking class]]></category>
+		<category><![CDATA[kid friendly]]></category>
+		<category><![CDATA[kids playground]]></category>
+		<category><![CDATA[school holiday]]></category>
+		<guid isPermaLink="false">https://sitchu.com.au/school-holiday-activities-sydney</guid>
 
-					<description><![CDATA[<p>Second article description</p>]]></description>
-										<content:encoded><![CDATA[<p>Dive into Sydney's electrifying nightclub scene where world-class DJs spin until dawn and the dance floors pulse with energy. From intimate underground venues to rooftop parties with harbor views, discover the hottest spots that define Sydney's after-dark culture.</p>]]></content:encoded>
+					<description><![CDATA[<p>Version 1! This round-up of the best school holiday activities in Sydney will keep the whole family happy.</p>]]></description>
+										<content:encoded><![CDATA[<p>This round-up of the best school holiday activities in Sydney will keep the whole family happy.</p>]]></content:encoded>
 					
 		
 		
-		<enclosure url="https://sitchu.com.au/wp-content/uploads/2024/12/best-nightclubs-sydney-scaled.jpg" type="image/jpeg" length="125050"></enclosure>	</item>
+		<enclosure url="https://sitchu.com.au/wp-content/uploads/2025/03/Sydney-Royal-Easter-Show-2-600x400.jpg" type="image/jpeg" length="47512"></enclosure>	</item>
+		<item>
+		<title>Version 1! The Best Hot Pot in Sydney to Chase the Winter Blues Away</title>
+		<link>https://sitchu.com.au/sydney/restaurants/best-hot-pot-sydney</link>
+		
+		<dc:creator><![CDATA[Kelly Mills]]></dc:creator>
+		<pubDate>Wed, 11 Jun 2025 03:02:28 +0000</pubDate>
+				<category><![CDATA[Eat & Drink]]></category>
+		<category><![CDATA[Restaurants]]></category>
+		<category><![CDATA[best hot pot sydney]]></category>
+		<category><![CDATA[eat and drink]]></category>
+		<category><![CDATA[restaurants sydney]]></category>
+		<guid isPermaLink="false">https://sitchu.com.au/best-hot-pot-sydney</guid>
+
+					<description><![CDATA[<p>Version 1! When the temperature drops, there's nothing quite like a bowl of steaming soup to cheer you up. Warm up and dive into the best hot pot in Sydney.</p>]]></description>
+										<content:encoded><![CDATA[<p>When the temperature drops, there's nothing quite like a bowl of steaming soup to cheer you up. Warm up and dive into the best hot pot in Sydney.</p>]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://sitchu.com.au/wp-content/uploads/2024/12/the-dolar-shop-syd.jpg" type="image/jpeg" length="81293"></enclosure>	</item>
+		<item>
+		<title>Version 1! Best New Restaurants in Sydney 2025</title>
+		<link>https://sitchu.com.au/sydney/restaurants/best-new-restaurants-in-sydney</link>
+		
+		<dc:creator><![CDATA[Olivia Storrie]]></dc:creator>
+		<pubDate>Wed, 11 Jun 2025 00:29:09 +0000</pubDate>
+				<category><![CDATA[Eat & Drink]]></category>
+		<category><![CDATA[Restaurants]]></category>
+		<category><![CDATA[casual dining]]></category>
+		<category><![CDATA[contemporary dining]]></category>
+		<category><![CDATA[eat drink]]></category>
+		<category><![CDATA[fine dining]]></category>
+		<category><![CDATA[restaurant]]></category>
+		<guid isPermaLink="false">https://sitchu.com.au/?p=291779</guid>
+
+					<description><![CDATA[<p>Version 1! Looking for date night dinner inspiration? We’ve tasted our way across the city to bring you the hottest new eateries — these are the best new restaurants in Sydney to know about!</p>]]></description>
+										<content:encoded><![CDATA[<p>Looking for date night dinner inspiration? We’ve tasted our way across the city to bring you the hottest new eateries — these are the best new restaurants in Sydney to know about!</p>]]></content:encoded>
+					
+		
+		
+		<enclosure url="https://sitchu.com.au/wp-content/uploads/2025/02/mister-grotto-silver-trevally-mussels-escabeche-yellowfin-tuna-oysters-selection-smoked-cod-seared-bonito-octopus-in-harissa.jpg" type="image/jpeg" length="259307"></enclosure>	</item>
 	</channel>
-</rss> 
+</rss>
